@@ -7,11 +7,6 @@ def display_board
   puts      "-----------"
   puts      "   |   |   "
 
-  "A Tic Tac Toe Board"
-       "   |   |   "
-        "-----------"
-       "   |   |   "
-       "-----------"
-        "   |   |   "
-
 end
+
+print_display_board
