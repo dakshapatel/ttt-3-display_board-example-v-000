@@ -9,4 +9,4 @@ def display_board
 
 end
 
-print_display_board
+print display_board
